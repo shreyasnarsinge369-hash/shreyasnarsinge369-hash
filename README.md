@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shreyas Narsinge
 
-### Software Developer | AI, Cloud & Automation Enthusiast
+### Software Developer | DevOps, Cloud & Automation Enthusiast
 
 I am a Diploma Information Technology student passionate about building practical software systems, learning cloud technologies, automation, and artificial intelligence.
 
